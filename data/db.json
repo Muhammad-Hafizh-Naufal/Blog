@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My journey with Vue",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem",
+      "tags": ["vue", "web", "node"]
+    },
+    {
+      "id": 2,
+      "title": "Blogging with Vue",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem",
+      "tags": ["js", "web", "node"]
+    }
+  ]
+}

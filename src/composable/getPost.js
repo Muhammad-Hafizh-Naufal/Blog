@@ -6,7 +6,7 @@ const getPost = (id) => {
 
   const load = async () => {
     try {
-      let data = await fetch("http://localhost:3000/posts" + id);
+      let data = await fetch("http://localhost:3000/posts/" + id);
 
       if (!data.ok) {
         throw Error("Tidak ada data");

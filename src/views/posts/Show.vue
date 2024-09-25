@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import getPost from "@/composable/getPost.js";
+import getPost from "@/composable/getPost";
 
 export default {
   props: ["id"],
